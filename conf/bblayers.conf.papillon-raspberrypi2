@@ -16,6 +16,7 @@ BBLAYERS ?= " \
  ${BSPDIR}/sources/meta-raspberrypi \
  \
  ${BSPDIR}/sources/meta-papillon \
+ ${BSPDIR}/sources/meta-papillon/meta-rpi \
  "
 
 BBLAYERS_NON_REMOVABLE ?= " \
